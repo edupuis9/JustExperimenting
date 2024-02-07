@@ -8,7 +8,7 @@
 
 ---
 
-![Samuel Clemens & Dorothea Lagne's "Migrant Mother" overlaid with AngularJS]({{site.baseurl}}/assets/images/angular-clemens-migrant.jpg)
+![Image of a mountain landscape with forest and field in the foreground]({{site.baseurl}}/assets/images/image.jpg)
 
 *Samuel Clemens & Dorothea Lagne's "Migrant Mother*
 
